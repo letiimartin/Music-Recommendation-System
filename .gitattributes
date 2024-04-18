@@ -1,2 +1,0 @@
-song_data.csv filter=lfs diff=lfs merge=lfs -text
-count_data.csv filter=lfs diff=lfs merge=lfs -text
