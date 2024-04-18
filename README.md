@@ -18,7 +18,9 @@ Two datasets are fundamental to this analysis:
 
 - `song_data.csv`: Contains song identification information, title, album, artist, and year of release.
 - `count_data.csv`: Records the number of times each song was played by users, along with unique user and song identifiers.
-
+The data files for this project are available for download via the following Google Drive links: 
+- [Download count_data.csv](https://drive.google.com/file/d/1EYFFrAte5oVupEujTfzWVkK9Fiak4Lu5/view?usp=drive_link)
+- [Download song_data.csv](https://drive.google.com/file/d/1vetFaFagk3ddE_62dBkAlOvIIkg9dgeJ/view?usp=drive_link)
 ## Problem Statement
 
 The project's objective is to tackle the challenge of effectively recommending music in a fast-paced business environment where capturing user attention and enhancing customer experience is paramount.
